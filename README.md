@@ -11,7 +11,7 @@ below).
 
 Use the numberpad to move your character in the cardinal directions.
 
-f fires the rifle. B or b cycles the bolt. R reloads.
+F or f aims and fires the rifle. B or b cycles the bolt. R reloads.
 
 G or g readies a grenade. T or t throws the grenade; select your target square using the numberpad.
 
