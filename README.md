@@ -1,4 +1,4 @@
-# OTT (WW1 Kaizo roguelike)
+# Over the Top (WW1 Kaizo roguelike)
 
 **FOR KING AND COUNTRY** 
 
@@ -20,7 +20,7 @@ If you are wounded and capable of bandaging yourself, H or h begins the process 
 
 C is a quick step which may put enemies at a disadvantage when closing distance in the trench.
 
-Should doubt set in, remember that your betters have decided that this fate for you and that dissent is proscribed. 
+Should doubt about any of this creep in, remember that your betters have decided that this fate for you and that dissent is proscribed. 
 
 
 ## Download and play
