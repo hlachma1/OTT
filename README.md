@@ -1,7 +1,8 @@
-# OTT
+# OTT (WW1 Kaizo roguelike)
 
-**FOR KING AND COUNTRY** You are one
-soldier of a British infantry battalion in an attack on the German line,
+**FOR KING AND COUNTRY** 
+
+You are one soldier of a British infantry battalion in an attack on the German line,
 between December 1914 and September 1915: over the top, across no-man's-land,
 through the wire and into their trenches. 
 
